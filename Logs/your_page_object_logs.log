@@ -1,0 +1,60 @@
+2023-09-11 20:59:15,852 - hihi - INFO - *************** Test_001_Login *****************
+2023-09-11 20:59:15,872 - hihi - INFO - ****Started Home page title test ****
+2023-09-11 20:59:15,889 - hihi - INFO - ****Opening URL****
+2023-09-11 20:59:17,749 - hihi - INFO - **** Home page title test passed ****
+2023-09-11 20:59:19,803 - hihi - INFO - ****Started Login Test****
+2023-09-11 20:59:25,308 - hihi - INFO - ****Login test passed ****
+2023-09-13 13:47:03,304 - hihi - INFO - *************** Test_001_Login *****************
+2023-09-13 13:47:03,305 - hihi - INFO - ****Started Home page title test ****
+2023-09-13 13:47:03,324 - hihi - INFO - ****Opening URL****
+2023-09-13 13:47:04,768 - hihi - INFO - **** Home page title test passed ****
+2023-09-13 13:47:06,790 - hihi - INFO - ****Started Login Test****
+2023-09-13 13:47:11,977 - hihi - INFO - ****Login test passed ****
+2023-09-13 13:49:02,703 - hihi - INFO - *************** Test_001_Login *****************
+2023-09-13 13:49:02,722 - hihi - INFO - ****Started Home page title test ****
+2023-09-13 13:49:02,741 - hihi - INFO - ****Opening URL****
+2023-09-13 13:49:04,374 - hihi - ERROR - **** Home page title test failed****
+2023-09-13 13:49:06,404 - hihi - INFO - ****Started Login Test****
+2023-09-13 13:49:13,607 - hihi - INFO - ****Login test passed ****
+2023-09-13 14:14:45,452 - hihi - INFO - *************** Test_001_Login *****************
+2023-09-13 14:14:45,473 - hihi - INFO - ****Started Home page title test ****
+2023-09-13 14:14:45,473 - hihi - INFO - ****Opening URL****
+2023-09-13 14:14:47,453 - hihi - ERROR - **** Home page title test failed****
+2023-09-13 14:14:49,642 - hihi - INFO - ****Started Login Test****
+2023-09-13 14:14:56,378 - hihi - INFO - ****Login test passed ****
+2023-09-13 14:18:09,730 - hihi - INFO - *************** Test_001_Login *****************
+2023-09-13 14:18:09,749 - hihi - INFO - ****Started Home page title test ****
+2023-09-13 14:18:09,784 - hihi - INFO - ****Opening URL****
+2023-09-13 14:18:11,406 - hihi - ERROR - **** Home page title test failed****
+2023-09-13 14:18:13,418 - hihi - INFO - ****Started Login Test****
+2023-09-13 14:18:19,391 - hihi - INFO - ****Login test passed ****
+2023-09-13 14:36:29,975 - hihi - INFO - *************** Test_001_Login *****************
+2023-09-13 14:36:29,993 - hihi - INFO - ****Started Home page title test ****
+2023-09-13 14:36:29,994 - hihi - INFO - ****Opening URL****
+2023-09-13 14:36:31,685 - hihi - ERROR - **** Home page title test failed****
+2023-09-13 14:36:33,819 - hihi - INFO - ****Started Login Test****
+2023-09-13 14:36:39,135 - hihi - INFO - ****Login test passed ****
+2023-09-13 15:00:39,563 - hihi - INFO - *************** Test_001_Login *****************
+2023-09-13 15:00:39,582 - hihi - INFO - ****Started Home page title test ****
+2023-09-13 15:00:39,582 - hihi - INFO - ****Opening URL****
+2023-09-13 15:00:41,327 - hihi - ERROR - **** Home page title test failed****
+2023-09-13 15:00:43,356 - hihi - INFO - ****Started Login Test****
+2023-09-13 15:00:49,202 - hihi - INFO - ****Login test passed ****
+2023-09-14 10:41:36,755 - hihi - INFO - ****Started Login Test****
+2023-09-14 10:45:59,273 - hihi - INFO - ****Started Login Test****
+2023-09-14 10:46:05,828 - hihi - INFO - ****Login test passed ****
+2023-10-27 15:20:46,731 - hihi - INFO - ****Started Login Test****
+2023-10-27 15:20:50,699 - hihi - INFO - ****Login test passed ****
+2023-10-27 15:21:29,097 - hihi - INFO - *************** Test_001_Login *****************
+2023-10-27 15:21:29,116 - hihi - INFO - ****Started Home page title test ****
+2023-10-27 15:21:29,116 - hihi - INFO - ****Opening URL****
+2023-10-27 15:21:30,454 - hihi - INFO - **** Home page title test passed ****
+2023-11-22 11:14:24,013 - hihi - INFO - ****Started Login Test****
+2024-02-07 16:53:42,726 - hihi - INFO - *************** Test_001_Login *****************
+2024-02-07 16:53:42,745 - hihi - INFO - ****Started Home page title test ****
+2024-02-07 16:53:42,767 - hihi - INFO - ****Opening URL****
+2024-02-07 16:53:45,224 - hihi - INFO - **** Home page title test passed ****
+2024-02-07 17:59:16,802 - hihi - INFO - *************** Test_001_Login *****************
+2024-02-07 17:59:16,803 - hihi - INFO - ****Started Home page title test ****
+2024-02-07 17:59:16,804 - hihi - INFO - ****Opening URL****
+2024-02-07 17:59:19,014 - hihi - INFO - **** Home page title test passed ****
